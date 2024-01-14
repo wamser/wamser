@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 A developer by day and a Android/Kotlin student by night.
 
